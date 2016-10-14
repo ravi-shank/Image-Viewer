@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/open.png</file>
+        <file>icons/save.png</file>
+        <file>icons/new.png</file>
+        <file>icons/print.png</file>
+        <file>icons/Saveas.png</file>
+        <file>icons/zoom_in.png</file>
+        <file>icons/zoom_out.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/rot_anti.png</file>
+        <file>icons/rot_clk.png</file>
+    </qresource>
+</RCC>
